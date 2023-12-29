@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ad6c3a3d.css",
+    "main.js": "/static/js/main.2c8bf131.js",
+    "static/media/Aman.jpeg": "/static/media/Aman.f92378d39f47d2deeda8.jpeg",
+    "static/media/Yuvraj.jpeg": "/static/media/Yuvraj.8b0e3bffb767e642f63f.jpeg",
+    "static/media/Abhinav.jpeg": "/static/media/Abhinav.669a5e014347feebb085.jpeg",
+    "static/media/Preetam.jpeg": "/static/media/Preetam.c92bdb278262e5ebca4d.jpeg",
+    "static/media/Hiren.jpeg": "/static/media/Hiren.8dac0884ee5bc567a906.jpeg",
+    "static/media/Vimal Mishra.jpeg": "/static/media/Vimal Mishra.b5406fcecbdeb5b5c530.jpeg",
+    "index.html": "/index.html",
+    "main.ad6c3a3d.css.map": "/static/css/main.ad6c3a3d.css.map",
+    "main.2c8bf131.js.map": "/static/js/main.2c8bf131.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad6c3a3d.css",
+    "static/js/main.2c8bf131.js"
+  ]
+}
